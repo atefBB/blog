@@ -36,7 +36,7 @@
 							</button>
 							<a class="navbar-brand" 
 								href="#brand">
-								<img alt="Brand" 
+								<img alt="Brand" class="img-circle"
 									 src="myblog-brand.png" 
 									 width="30">
 							</a>
