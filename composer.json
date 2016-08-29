@@ -4,9 +4,9 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
-    "require": {
+	"require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.3.*",
+        "laravel/framework": "5.2.*",
         "php-ffmpeg/php-ffmpeg": "^0.6.1"
     },
     "require-dev": {
